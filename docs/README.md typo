@@ -1,7 +1,7 @@
 FFKI Ansible Documentation
 ==========================
 
-This is the docuemnetation for the automated ansible setup of Freifunk Kiel.
+This is the documetation for the automated ansible setup of Freifunk Kiel.
 
 Documentation is split up into multiple parts:
  - Site setup: site.md
